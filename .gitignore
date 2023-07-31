@@ -2,3 +2,5 @@
 .DS_Store
 # Ignore Jupyter checkpoint folder
 .ipynb_checkpoints/
+# Ignore Data
+data/
