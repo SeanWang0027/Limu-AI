@@ -4,3 +4,7 @@
 .ipynb_checkpoints/
 # Ignore Data
 data/
+# Ignore Competition
+competition/
+# Ignore submission
+ch3 Model/submission/csv
