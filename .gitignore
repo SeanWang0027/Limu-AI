@@ -7,4 +7,4 @@ data/
 # Ignore Competition
 competition/
 # Ignore submission
-ch3 Model/submission/csv
+ch3 Model/submission.csv
